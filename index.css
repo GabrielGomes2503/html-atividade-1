@@ -1,0 +1,19 @@
+body{
+background-color: #0003ab7e;
+}
+
+div{
+    width: 350px;
+    background-color: #36821aaa;
+    margin: 0 auto;
+    margin-top: 100px;
+    padding: 30px 20px;
+}
+
+img{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    margin: 0 auto;
+    display: block;
+}
